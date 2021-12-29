@@ -1,0 +1,15 @@
+Importance,Attitude towards restrictions (R_ = 0.13),,Personal risk (R_ = 0.18),,Protective health behaviors (R_ = 0.14),
+,Covariate,Coefficient,Covariate,Coefficient,Covariate,Coefficient
+1,Politically opposed,-0.31,Perceived seriousness (current),0.38,Age groups,0.29
+2,Personal Risk,0.15,Emotional distress (PHQ4),0.33,Personal Risk,0.21
+3,Protective Health Behaviors,0.14,Perceived seriousness (future),0.32,Perceived seriousness (current),0.21
+4,Perceived seriousness (current),0.12,Protective Health Behaviors,0.27,Attitude towards restrictions,0.18
+5,Perceived seriousness (future),0.09,Politically opposed,-0.26,Female (binary),0.12
+6,Vaccinated,0.07,Age groups,0.25,Region,-0.11
+7,Age groups,-0.06,Attitude towards restrictions,0.25,Emotional distress (PHQ4),-0.11
+8,Education level,0.03,Region,-0.04,Politically opposed,-0.1
+9,Emotional distress (PHQ4),-0.01,Past Covid19 diagnosis,-0.04,Perceived seriousness (future),0.09
+10,Region,-0.01,Education level,0.04,Vaccinated,0.08
+11,Female (binary),0,Female (binary),0.01,Past Covid19 diagnosis,-0.06
+12,Past Covid19 diagnosis,0,Vaccinated,0,Education level,-0.03
+13,SES,0,SES,0,SES,0

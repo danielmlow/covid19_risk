@@ -1,0 +1,15 @@
+Personal risk (R^2 = 0.18),Personal risk (R^2 = 0.18)
+Covariate,Coefficient
+Perceived seriousness (current),.38
+Emotional distress (PHQ4),.33
+Perceived seriousness (future),.32
+Protective Health Behaviors,.27
+Politically opposed,-.26
+Age groups,.25
+Attitude towards restrictions,.25
+Region,-.04
+Past Covid19 diagnosis,-.04
+Education level,.04
+Female (binary),.01
+Vaccinated,-.0
+SES,.0

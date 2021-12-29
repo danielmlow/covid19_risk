@@ -1,14 +1,14 @@
 
 # TODO
 
-Data and code for Torrente, Yoris et al. "" 
+Data and code for Torrente et al. "Risk perception, health protection behaviors, and the effect of risk-related messages on acceptance of restrictive measures in the face of the second wave of COVID-19 in Argentina" 
 
 
 ## 1. Data
 
 Available at `./data/input/`
 
-* `.csv` Main Dataset
+* `COVID-19_risk.csv` Main Dataset
 
 
 
