@@ -1,0 +1,15 @@
+Importance,"Support for restrictions, OOS R2=0.15 (0.02)","Support for restrictions, OOS R2=0.15 (0.02)","Personal risk index, OOS R2=0.21 (0.03)","Personal risk index, OOS R2=0.21 (0.03)","Protective health behaviors index, OOS R2=0.17 (0.01)","Protective health behaviors index, OOS R2=0.17 (0.01)"
+,Covariate,Coef.,Covariate,Coef.,Covariate,Coef.
+1,Politically opposed,-0.32***,Health Context Appraisal (current),0.38***,Age groups,0.29***
+2,Personal Risk Index,0.15***,Psychological distress (PHQ4),0.34***,Personal Risk Index,0.21***
+3,Protective Health Behaviors Index,0.14***,Health Context Appraisal (future),0.3***,Health Context Appraisal (current),0.19***
+4,Health Context Appraisal (current),0.12***,Protective Health Behaviors Index,0.27***,Support for restrictions,0.17***
+5,Health Context Appraisal (future),0.09***,Support for restrictions,0.25***,Region,-0.12***
+6,Vaccinated,0.06**,Politically opposed,-0.25***,Female (binary),0.11***
+7,Education level,0.05,Age groups,0.25***,Psychological distress (PHQ4),-0.1***
+8,Age groups,-0.05*,Region,-0.08*,Politically opposed,-0.1***
+9,Psychological distress (PHQ4),-0.03,Female (binary),0.04,Health Context Appraisal (future),0.1***
+10,SES,-0.02,Education level,0.03,Vaccinated,0.08***
+11,Region,-0.01,Vaccinated,-0.03,Past Covid19 diagnosis,-0.04
+12,Past Covid19 diagnosis,0.0,Past Covid19 diagnosis,-0.03,SES,-0.04
+13,Female (binary),0.0,SES,0.01,Education level,-0.01

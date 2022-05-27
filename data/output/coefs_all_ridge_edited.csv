@@ -1,0 +1,19 @@
+,"Support for restrictions 
+OOS R2=0.15 (0.02)",,,"Personal risk index
+OOS R2=0.21 (0.03)",,,"Protective health behaviors index
+ OOS R2=0.17 (0.02)",
+,Covariate,Coef.,,Covariate,Coef.,,Covariate,Coef.
+1,Politically opposed,-0.32***,,Health Context Appraisal (current),0.38***,,Age groups,0.29***
+2,Personal Risk Index,0.15***,,Psychological distress (PHQ4),0.34***,,Personal Risk Index,0.21***
+3,Protective Health Behaviors Index,0.14***,,Health Context Appraisal (future),0.3***,,Health Context Appraisal (current),0.19***
+4,Health Context Appraisal (current),0.12***,,Protective Health Behaviors Index,0.27***,,Support for restrictions,0.17***
+5,Health Context Appraisal (future),0.09***,,Support for restrictions,0.25***,,Region,-0.12***
+6,Vaccinated,0.06**,,Politically opposed,-0.25***,,Female (binary),0.11***
+7,Age groups,-0.05*,,Age groups,0.25***,,Psychological distress (PHQ4),-0.1***
+8,Education level,0.04*,,Region,-0.08*,,Politically opposed,-0.1***
+9,Psychological distress (PHQ4),-0.03,,Female (binary),0.04,,Health Context Appraisal (future),0.1***
+10,Past Covid19 diagnosis,0,,Education level,0.03,,Vaccinated,0.08***
+11,SES,0,,Vaccinated,-0.03,,Past Covid19 diagnosis,-0.04
+12,Female (binary),0,,Past Covid19 diagnosis,-0.03,,SES,-0.04
+13,Region,0,,SES,0.01,,Education level,-0.01
+"Note: OOS R2 is out-of-sample prediction mean (standard deviation) across 5 test sets using 5-fold cross-validation. Variables are ranked by their absolute coefficient values. The standardized coefficients represent how many standard deviations a dependent variable will change per standard deviation increase in the covariate (e.g.. 1 s.d. increase in being politically opposed is associated with  0.32 decrease in Support for restrictions, if all other covariates are fixed). Stronger associations have higher absolute coefficient values. Positive coefficients make it more likely that the dependent variable will increase; negative coefficients make it more likely that the dependent variable will decrease. Coefficients closer to zero are not associated to the dependent variables. LASSO: least absolute shrinkage and selection operator; OOS: out-of-sample; Coef.: coefficient; PHQ-4: Patient Health Questionnaire-4; SES: socio-economical status. *** = P-value <=0.001; ** = P-value <=0.01; * = P-value <=0.05.",,,,,,,,
