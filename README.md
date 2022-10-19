@@ -1,7 +1,8 @@
 
 
 
-Data and code for Torrente et al. "Risk perception, health protection behaviors, and the effect of risk-related messages on acceptance of restrictive measures in the face of the second wave of COVID-19 in Argentina" 
+Data and code for Torrente, Low, Yoris (2022). "Risk perception, but also political orientation, modulate behavioral response to COVID-19: A randomized survey experiment". Frontiers in Psychology. 
+https://www.frontiersin.org/articles/10.3389/fpsyg.2022.900684/full
 
 
 ## 1. Data
